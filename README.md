@@ -24,8 +24,8 @@ Este projeto é o meu primeiro pequeno projeto usando Flutter, com isso aprendi 
         O usuário pode filtrar os tipos de refeições e criar uma lista de refeições favoritas.
     </p>
     <p float="left">
-        <img src="screenshots/drawer.jpg" width="200">
-        <img src="screenshots/filters.jpg" width="200">
-        <img src="screenshots/favorites.jpg" width="200">
+        <img src="screenshots/drawer.jpg" width="300">
+        <img src="screenshots/filters.jpg" width="300">
+        <img src="screenshots/favorites.jpg" width="300">
     </p>
 </p>
