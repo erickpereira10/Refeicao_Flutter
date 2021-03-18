@@ -1,6 +1,6 @@
 # Refeicao_Flutter
 
-Um aplicativo no Flutter de receitas culinárias de diversos sabores.
+Aplicativo simples em Flutter sobre receitas culinárias de diversos sabores. Onde mostra o tempo, se é barato ou caro, se é simples ou complexo.
 
 ## O que eu aprendi
 
