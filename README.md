@@ -13,9 +13,9 @@ Este projeto é o meu primeiro pequeno projeto usando Flutter, com isso aprendi 
         Página inicial -> Categorias -> Receita de refeição
     </p>
     <p float="left">
-        <img src="screenshots/home.jpg" width="500">
-        <img src="screenshots/categories.jpg" width="500">
-        <img src="screenshots/meal.jpg" width="500">
+        <img src="screenshots/home.jpg" width="300">
+        <img src="screenshots/categories.jpg" width="300">
+        <img src="screenshots/meal.jpg" width="300">
     </p>
 </p>
 
